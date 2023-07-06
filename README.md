@@ -21,6 +21,8 @@ Descargar [Mongo Compass](https://www.mongodb.com/try/download/compass)
 
 Crear cuenta en [Mongo Atlas](https://www.mongodb.com/es/cloud/atlas/register)
 
-[Presentación de BD No relacionales](https://drive.google.com/file/d/1z-WnHKnKzHwjsZFd0PsrBtg7foh-Ghdu/view?usp=drive_link)
+[Presentación de BD No relacionales](https://docs.google.com/presentation/d/19hudpiinc2iwqnZNGsLQ94Ol8arav7Ut/edit?usp=drive_link&ouid=100840405244804940246&rtpof=true&sd=true)
+
+[Colab de BD No relacionales](https://drive.google.com/file/d/1z-WnHKnKzHwjsZFd0PsrBtg7foh-Ghdu/view?usp=drive_link)
 
 [Carpeta con datos para nuestro cluster [Spotify, Amazon, etc]](https://drive.google.com/drive/folders/1ln2rRRwmJ40xJ-a6d05xLEDeJr62qThB?usp=drive_link)
