@@ -30,6 +30,6 @@ Crear cuenta en [Mongo Atlas](https://www.mongodb.com/es/cloud/atlas/register)
 
 ### Sesión 3 - ➕ More NoSQL DB con DODB usando Mongo 🍂 + APIs 🌐: 
 
-_ Continuación con Colab Mongo _
+__ Continuación con Colab Mongo __
 
 [Presentación de APIS](https://docs.google.com/presentation/d/1lIPet0kS1WmWHPWgt9JouCo2n6GUPMZN/edit?usp=drive_link&ouid=100840405244804940246&rtpof=true&sd=true)
