@@ -26,3 +26,10 @@ Crear cuenta en [Mongo Atlas](https://www.mongodb.com/es/cloud/atlas/register)
 [Colab de BD No relacionales](https://drive.google.com/file/d/1z-WnHKnKzHwjsZFd0PsrBtg7foh-Ghdu/view?usp=drive_link)
 
 [Carpeta con datos para nuestro cluster [Spotify, Amazon, etc]](https://drive.google.com/drive/folders/1ln2rRRwmJ40xJ-a6d05xLEDeJr62qThB?usp=drive_link)
+
+
+### Sesión 3 - ➕ More NoSQL DB con DODB usando Mongo 🍂 + APIs 🌐: 
+
+_ Continuación con Colab Mongo _
+
+[Presentación de APIS](https://docs.google.com/presentation/d/1lIPet0kS1WmWHPWgt9JouCo2n6GUPMZN/edit?usp=drive_link&ouid=100840405244804940246&rtpof=true&sd=true)
