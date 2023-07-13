@@ -15,7 +15,7 @@
 
 
 
-### Sesión 2 Bases de Datos No relacionales (NoSQL) 
+### Sesión 2 - Bases de Datos No relacionales (NoSQL) 
 
 Descargar [Mongo Compass](https://www.mongodb.com/try/download/compass)
 
@@ -33,3 +33,10 @@ Crear cuenta en [Mongo Atlas](https://www.mongodb.com/es/cloud/atlas/register)
 __ Continuación con Colab Mongo __
 
 [Presentación de APIS](https://docs.google.com/presentation/d/1lIPet0kS1WmWHPWgt9JouCo2n6GUPMZN/edit?usp=drive_link&ouid=100840405244804940246&rtpof=true&sd=true)
+
+
+### Sesión 4 - Modo código para entender las APIs (o sea la parte práctica de APIs)
+
+[Colab de APIs](https://drive.google.com/file/d/1NmHhvje4UrZ4XzMo6mBykSW3MkJ1hHgS/view?usp=drive_link)
+
+[Referencia de Antiguo Challenge de Twitter](https://drive.google.com/file/d/1NmHhvje4UrZ4XzMo6mBykSW3MkJ1hHgS/view?usp=drive_link)
