@@ -30,7 +30,7 @@ Crear cuenta en [Mongo Atlas](https://www.mongodb.com/es/cloud/atlas/register)
 
 ### Sesión 3 - ➕ More NoSQL DB con DODB usando Mongo 🍂 + APIs 🌐: 
 
-__ Continuación con Colab Mongo __
+__Continuación con Colab Mongo__
 
 [Presentación de APIS](https://docs.google.com/presentation/d/1lIPet0kS1WmWHPWgt9JouCo2n6GUPMZN/edit?usp=drive_link&ouid=100840405244804940246&rtpof=true&sd=true)
 
@@ -40,3 +40,20 @@ __ Continuación con Colab Mongo __
 [Colab de APIs](https://drive.google.com/file/d/1NmHhvje4UrZ4XzMo6mBykSW3MkJ1hHgS/view?usp=drive_link)
 
 [Referencia de Antiguo Challenge de Twitter](https://drive.google.com/file/d/1NmHhvje4UrZ4XzMo6mBykSW3MkJ1hHgS/view?usp=drive_link)
+
+
+
+### Sesión 5 - Web Scrapping
+
+[Presentación Web Srapping](https://docs.google.com/presentation/d/1MwcGsFKWpZcx2WgkNgFbatRLt0fa4bB_pW17D2fSnN4/edit?usp=sharing)
+
+[Descarga Google Chrome](https://www.google.com/chrome/?brand=BNSD&gclsrc=ds&gclsrc=ds)
+
+[Descarga Driver para Chrome](https://chromedriver.chromium.org/downloads)
+
+_Estos 2 sí los necesitaremos para la clase, los demás pueden esperar para la próxima_
+
+[Descarga Visual Studio](https://code.visualstudio.com/)
+Puede ser Visual Studio o cualquier editor de código/tetxo que uds quieran (Sublime, Atom, El editor de notas de la propia compu, etc...)
+
+[Descarga Python Desktop](https://www.python.org/downloads/)
