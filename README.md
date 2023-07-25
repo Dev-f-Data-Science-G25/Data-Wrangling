@@ -57,3 +57,8 @@ _Estos 2 sí los necesitaremos para la clase, los demás pueden esperar para la 
 Puede ser Visual Studio o cualquier editor de código/tetxo que uds quieran (Sublime, Atom, El editor de notas de la propia compu, etc...)
 
 [Descarga Python Desktop](https://www.python.org/downloads/)
+
+
+### Sesión 6 - Web Scrapping (Parte práctica) 🤖 🕷
+
+[Colab Data Wrangling](https://drive.google.com/file/d/1ciS1KMqg5YwsENrQT3kqgsjcEnDE7ma9/view?usp=drive_link)
