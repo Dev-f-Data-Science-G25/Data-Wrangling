@@ -62,3 +62,13 @@ Puede ser Visual Studio o cualquier editor de código/tetxo que uds quieran (Sub
 ### Sesión 6 - Web Scrapping (Parte práctica) 🤖 🕷
 
 [Colab Data Wrangling](https://drive.google.com/file/d/1ciS1KMqg5YwsENrQT3kqgsjcEnDE7ma9/view?usp=drive_link)
+
+
+### Sesión 7 - Construye tu API 🤖 🕷
+
+[Código base](https://drive.google.com/file/d/1VgXN5ijhzEew0BLodJWSNxPYExWR5VpJ/view?usp=sharing)
+
+[Python Everywhere apra Deployar API](https://www.pythonanywhere.com/)
+
+[Software para hacer pruebas de peticiones](https://www.postman.com/downloads/)
+
