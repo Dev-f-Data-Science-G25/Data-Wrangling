@@ -64,6 +64,11 @@ Puede ser Visual Studio o cualquier editor de código/tetxo que uds quieran (Sub
 [Colab Data Wrangling](https://drive.google.com/file/d/1ciS1KMqg5YwsENrQT3kqgsjcEnDE7ma9/view?usp=drive_link)
 
 
+##### Código en vivo de clase de 28 Sep donde cambiamos las clases para el scrapping
+
+[Codigo clase 28 Sept](https://colab.research.google.com/drive/1bCT80fM64_ltKyU1GB7vtVsEmEfad_Ae?usp=sharing)
+
+
 ### Sesión 7 - Construye tu API 🤖 🕷
 
 [Código base](https://drive.google.com/file/d/1VgXN5ijhzEew0BLodJWSNxPYExWR5VpJ/view?usp=sharing)
