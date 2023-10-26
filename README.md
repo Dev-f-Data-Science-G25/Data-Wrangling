@@ -11,6 +11,8 @@
 
 [Challenge práctica de Pandas](https://drive.google.com/file/d/1uOMz9k4WzMJD9hQMmNp_Bq9v_I3dpLda/view?usp=drive_link)
 
+[Challenge práctica de Pandas RESUELTO](https://colab.research.google.com/drive/1lEQ2xIWW3WYN_18EMoPQxzp48mGTBuJ4?usp=sharing)
+
 [Carpeta con datos para ejercicio de pandas](https://drive.google.com/drive/folders/1ksNbF0DzgHOr8KGpK12jQ11Hfst-E4tD)
 
 
@@ -22,6 +24,8 @@ Descargar [Mongo Compass](https://www.mongodb.com/try/download/compass)
 Crear cuenta en [Mongo Atlas](https://www.mongodb.com/es/cloud/atlas/register)
 
 [Presentación de BD No relacionales](https://docs.google.com/presentation/d/19hudpiinc2iwqnZNGsLQ94Ol8arav7Ut/edit?usp=drive_link&ouid=100840405244804940246&rtpof=true&sd=true)
+
+[Colab de BD No relacionales_ Codigo Base](https://colab.research.google.com/drive/1hkGNb8JxdX8pjS-HBzir-ijzZ_UFPko8?usp=sharing)
 
 [Colab de BD No relacionales](https://drive.google.com/file/d/1z-WnHKnKzHwjsZFd0PsrBtg7foh-Ghdu/view?usp=drive_link)
 
@@ -36,8 +40,16 @@ __Continuación con Colab Mongo__
 
 
 ### Sesión 4 - Modo código para entender las APIs (o sea la parte práctica de APIs)
-
+[Colab de APIs Vacío](https://colab.research.google.com/drive/1glxDcWDRucg9IQMitQ2YVRJsX0cVul4R?usp=sharing)
 [Colab de APIs](https://drive.google.com/file/d/1NmHhvje4UrZ4XzMo6mBykSW3MkJ1hHgS/view?usp=drive_link)
+
+
+__ Documentación de APIs Utilizadas en clase __
+[Documentación de SWAPI](https://swapi.dev/)
+[Documentación de Coingecko](https://www.coingecko.com/api/documentation)
+[Documentación de YELP](https://docs.developer.yelp.com/reference/v3_business_search)
+
+__ Extras __
 
 [Referencia de Antiguo Challenge de Twitter](https://drive.google.com/file/d/1NmHhvje4UrZ4XzMo6mBykSW3MkJ1hHgS/view?usp=drive_link)
 
