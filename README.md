@@ -44,12 +44,12 @@ __Continuación con Colab Mongo__
 [Colab de APIs](https://drive.google.com/file/d/1NmHhvje4UrZ4XzMo6mBykSW3MkJ1hHgS/view?usp=drive_link)
 
 
-__ Documentación de APIs Utilizadas en clase __
+__Documentación de APIs Utilizadas en clase__
 [Documentación de SWAPI](https://swapi.dev/)
 [Documentación de Coingecko](https://www.coingecko.com/api/documentation)
 [Documentación de YELP](https://docs.developer.yelp.com/reference/v3_business_search)
 
-__ Extras __
+__Extras__
 
 [Referencia de Antiguo Challenge de Twitter](https://drive.google.com/file/d/1NmHhvje4UrZ4XzMo6mBykSW3MkJ1hHgS/view?usp=drive_link)
 
