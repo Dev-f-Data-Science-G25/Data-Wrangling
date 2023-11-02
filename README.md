@@ -40,16 +40,22 @@ __Continuación con Colab Mongo__
 
 
 ### Sesión 4 - Modo código para entender las APIs (o sea la parte práctica de APIs)
+
+
 [Colab de APIs Vacío](https://colab.research.google.com/drive/1glxDcWDRucg9IQMitQ2YVRJsX0cVul4R?usp=sharing)
 [Colab de APIs](https://drive.google.com/file/d/1NmHhvje4UrZ4XzMo6mBykSW3MkJ1hHgS/view?usp=drive_link)
 
 
 __Documentación de APIs Utilizadas en clase__
+
+
+
 [Documentación de SWAPI](https://swapi.dev/)
 [Documentación de Coingecko](https://www.coingecko.com/api/documentation)
 [Documentación de YELP](https://docs.developer.yelp.com/reference/v3_business_search)
 
 __Extras__
+
 
 [Referencia de Antiguo Challenge de Twitter](https://drive.google.com/file/d/1NmHhvje4UrZ4XzMo6mBykSW3MkJ1hHgS/view?usp=drive_link)
 
@@ -75,10 +81,6 @@ Puede ser Visual Studio o cualquier editor de código/tetxo que uds quieran (Sub
 
 [Colab Data Wrangling](https://drive.google.com/file/d/1ciS1KMqg5YwsENrQT3kqgsjcEnDE7ma9/view?usp=drive_link)
 
-
-** Código en vivo de clase de 28 Sep donde cambiamos las clases para el scrapping **
-
-[Codigo clase 28 Sept](https://colab.research.google.com/drive/1bCT80fM64_ltKyU1GB7vtVsEmEfad_Ae?usp=sharing)
 
 
 ### Sesión 7 - Construye tu API 🤖 🕷
