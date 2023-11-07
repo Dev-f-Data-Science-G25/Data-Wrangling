@@ -89,6 +89,8 @@ Puede ser Visual Studio o cualquier editor de código/tetxo que uds quieran (Sub
 
 [Código base](https://drive.google.com/file/d/1CUEBBmHW5uk7G5OC0Jmn8NaAR5hR8dyc/view?usp=drive_link)
 
+[Código visto en clase 6 de Nov 2023](https://drive.google.com/file/d/14244ISJ97frI-JQxUWcmVzCLRG3oLuyc/view?usp=sharing)
+
 
 __Crear cuenta en Pythonanywhere__
 
@@ -102,11 +104,8 @@ __Postman__
 [Software para hacer pruebas de peticiones](https://www.postman.com/downloads/)
 
 
-### Sesión 8 - Vista de ave 🦅 a Apache Spark
+### Sesión 8 - Vista de ave 🦅 a Apache Spark y herramientas de Nube ☁
 
 [Presentación](https://docs.google.com/presentation/d/1IExrkHv-EncKUsVRfWotzMcQngko2TVc/edit?usp=sharing&ouid=100840405244804940246&rtpof=true&sd=true)
 
-[Colab Spark](https://drive.google.com/file/d/1pu68K9mbOt1_SSfT4VJrx5bKX4sEiIi1/view?usp=sharing)
-
-[Carpeta de datos](https://drive.google.com/drive/folders/1AEtdn6K4E9C7np3lqAXs2JNb_TVzxGm1?usp=sharing)
 
