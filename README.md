@@ -87,7 +87,7 @@ Puede ser Visual Studio o cualquier editor de código/tetxo que uds quieran (Sub
 
 ### Sesión 7 - Construye tu API 🤖 🕷
 
-[Código base](https://drive.google.com/file/d/1VgXN5ijhzEew0BLodJWSNxPYExWR5VpJ/view?usp=sharing)
+[Código base](https://drive.google.com/file/d/1CUEBBmHW5uk7G5OC0Jmn8NaAR5hR8dyc/view?usp=drive_link)
 
 
 __Crear cuenta en Pythonanywhere__
