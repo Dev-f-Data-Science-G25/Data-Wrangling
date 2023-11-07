@@ -81,13 +81,23 @@ Puede ser Visual Studio o cualquier editor de código/tetxo que uds quieran (Sub
 
 [Colab Data Wrangling](https://drive.google.com/file/d/1ciS1KMqg5YwsENrQT3kqgsjcEnDE7ma9/view?usp=drive_link)
 
+[Colab Web Scrapping actualizado CLASE 1 NOV 2023](https://drive.google.com/file/d/1ciS1KMqg5YwsENrQT3kqgsjcEnDE7ma9/view?usp=drive_link)
+
 
 
 ### Sesión 7 - Construye tu API 🤖 🕷
 
 [Código base](https://drive.google.com/file/d/1VgXN5ijhzEew0BLodJWSNxPYExWR5VpJ/view?usp=sharing)
 
+
+__Crear cuenta en Pythonanywhere__
+
+
+
 [Python Everywhere apra Deployar API](https://www.pythonanywhere.com/)
+
+
+__Postman__
 
 [Software para hacer pruebas de peticiones](https://www.postman.com/downloads/)
 
